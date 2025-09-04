@@ -96,7 +96,7 @@ Image\_Compression/
 
 
 
-&nbsp;	git clone https://github.com/MaanasiS/Image_Compression_with_K_Means.git
+&nbsp;	git clone https://github.com/MaanasiS/Image-Compression-with-K-Means.git
 
 
 &nbsp;	cd Image\_Compression\_KMeans
@@ -162,6 +162,7 @@ Modify output formats by editing the list:
 
 
 * CLI or Web interface to choose k and formats
+
 
 
 
